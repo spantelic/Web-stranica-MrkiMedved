@@ -1,0 +1,14 @@
+p{
+    display: inline;
+}
+
+#mrkiMedved{
+ font-weight: bold;
+}
+
+#zanimljivost{
+   font-style: italic;
+   font-weight: bold;
+   color: rgb(172, 2, 2);
+   background-color: rgb(216, 200, 231); 
+}
